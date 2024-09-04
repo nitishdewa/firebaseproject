@@ -3,7 +3,7 @@ const Home = () => {
     <div className="home-container">
       <h2 className="home-heading">Student Record Management System</h2>
       <img
-        src="src\Images\Best-Student-Record-Management-System-for-Schools-Institutes-1.png"
+        src="https://media.licdn.com/dms/image/v2/C5112AQE60akWUuFfxQ/article-cover_image-shrink_423_752/article-cover_image-shrink_423_752/0/1566308258085?e=1730937600&v=beta&t=r1P7F4tLQsz9TA6KfJA6beLa5MkWQ_xoL-Cs1ISZAeo"
         alt="Student Management Illustration"
         className="home-image"
       />
